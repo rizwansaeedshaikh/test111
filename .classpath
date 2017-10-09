@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/VerizonWorkspace/int/WebContent/WEB-INF/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AH0663232/.m2/repository/org/apache/httpcomponents/httpclient/4.3.4/httpclient-4.3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AH0663232/.m2/repository/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AH0663232/.m2/repository/junit/junit/4.12/junit-4.12.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/AH0663232/.m2/repository/junit/junit/4.12/junit-4.12-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/AH0663232/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
